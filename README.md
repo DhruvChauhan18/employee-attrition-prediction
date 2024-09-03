@@ -1,1 +1,2 @@
 # employee-attrition-prediction
+Employee Attrition Prediction System is designed to help organizations better understand and manage employee turnover by harnessing the capabilities of predictive modelling. Leveraging Python and popular machine learning libraries, I have developed a robust system that uses historical employee data to forecast attrition risks. The code here encompasses data pre-processing, feature engineering, model selection, and evaluation processes, all aimed at delivering accurate and actionable predictions.
